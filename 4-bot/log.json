@@ -1,0 +1,28 @@
+{
+    "update_id": 882022582,
+    "message": {
+        "message_id": 53,
+        "from": {
+            "id": 1020678098,
+            "is_bot": false,
+            "first_name": "\ud81a\udcd4\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\u20dd\u035c\u0361\u272e\u035c\u0361Darknet\u272e\u035c",
+            "username": "SHMIRZANAZAROV",
+            "language_code": "ru"
+        },
+        "chat": {
+            "id": 1020678098,
+            "first_name": "\ud81a\udcd4\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ua80b\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\ud807\udcad\u20dd\u035c\u0361\u272e\u035c\u0361Darknet\u272e\u035c",
+            "username": "SHMIRZANAZAROV",
+            "type": "private"
+        },
+        "date": 1654585751,
+        "text": "\/start",
+        "entities": [
+            {
+                "offset": 0,
+                "length": 6,
+                "type": "bot_command"
+            }
+        ]
+    }
+}
